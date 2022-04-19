@@ -1,2 +1,2 @@
-# first-colab
-# something else that i wanted to add in a branch
+This is Spencer and Grant's first crack at Checkers
+
